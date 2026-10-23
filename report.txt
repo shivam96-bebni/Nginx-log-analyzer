@@ -1,0 +1,12 @@
+Nginx Log Analyzer Report
+Generated: 2026-10-23 19:25:45
+Analyzed file: logs/access.log
+Total requests: 5
+Successful requests (200): 3
+Not Found (404): 1
+Server Errors (500): 1
+
+Requests by IP:
+192.168.1.10 3
+192.168.1.11 1
+192.168.1.12 1
