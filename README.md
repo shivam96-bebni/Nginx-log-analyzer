@@ -134,3 +134,4 @@ This project is intended for learning and practicing Linux, Bash scripting, and 
 ## Author
 
 Created as a hands-on DevOps and Linux learning project.
+- Git branch and merge practice
